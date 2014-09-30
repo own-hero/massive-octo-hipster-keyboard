@@ -68,4 +68,21 @@ Switches
 
 * Stabilizer and Springs http://mechanicalkeyboards.com/shop/index.php?l=product_list&c=47
 
+Cable
+-----
 
+* USB Dual A Power Y-Adapter to Mini-B http://www.amazon.de/Lindy-31787-Power-Y-Kabel-Mini-B/dp/B002C5WF4U/
+
+LED
+---
+100
+* white http://www.amazon.de/Stück-WEISS-DIFFUS-white-ULTRAHELL-KALTWEISS/dp/B007VPZTS0
+
+110pcs pack
+
+* blue http://www.maxkeyboard.com/max-keyboard-blue-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
+* green http://www.maxkeyboard.com/max-keyboard-green-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
+* purple http://www.maxkeyboard.com/max-keyboard-magenta-pink-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
+* orange http://www.maxkeyboard.com/max-keyboard-orange-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
+* red http://www.maxkeyboard.com/max-keyboard-red-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
+* white http://www.maxkeyboard.com/max-keyboard-white-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
