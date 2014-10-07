@@ -93,4 +93,4 @@ Since Cherry now produces Cherry MX RGB, we will probably opt for SMD RGB LEDs, 
 Display Controller
 ------------------
 
-* Panasonic LED display controller for upto 96 RGB LEDs with 256 steps. http://www.mouser.de/ProductDetail/Panasonic/AN32054B-PB/?qs=%2fha2pyFadugcAG5SK34l4Z5ok8JCHWiqV%252bZdeeVIq65GiuRQnqPl4Q%3d%3d
+* Panasonic LED display controller for upto 96 RGB LEDs with 256 steps. http://www.mouser.de/new/panasonicec/panasonic-AN3x-LED-drivers/ and  http://www.mouser.de/ProductDetail/Panasonic/AN32054B-PB/?qs=%2fha2pyFadugcAG5SK34l4Z5ok8JCHWiqV%252bZdeeVIq65GiuRQnqPl4Q%3d%3d
