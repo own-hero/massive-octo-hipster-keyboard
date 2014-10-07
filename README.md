@@ -65,7 +65,7 @@ Switches
 --------
 
 * Cherry MX (black, brown, blue, red, clear, gray, green, white) http://mechanicalkeyboards.com/shop/index.php?l=product_list&c=43
-
+* Cherry MX RGB http://cherry.de/cid/keymodules.htm?
 * Stabilizer and Springs http://mechanicalkeyboards.com/shop/index.php?l=product_list&c=47
 
 Cable
@@ -86,3 +86,11 @@ LED
 * orange http://www.maxkeyboard.com/max-keyboard-orange-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
 * red http://www.maxkeyboard.com/max-keyboard-red-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
 * white http://www.maxkeyboard.com/max-keyboard-white-3mm-flangeless-replacement-led-for-backlit-mechanical-keyboard-110-pcs.html
+* 
+
+Since Cherry now produces Cherry MX RGB, we will probably opt for SMD RGB LEDs, soldered to the PCB.
+
+Display Controller
+------------------
+
+* Panasonic LED display controller for upto 96 RGB LEDs with 256 steps. http://www.mouser.de/ProductDetail/Panasonic/AN32054B-PB/?qs=%2fha2pyFadugcAG5SK34l4Z5ok8JCHWiqV%252bZdeeVIq65GiuRQnqPl4Q%3d%3d
